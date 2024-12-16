@@ -20,3 +20,20 @@ This project is an Angular application that displays a list of countries fetched
    ```bash
    git clone https://github.com/your-repo/country-list-app.git
    cd country-list-app
+
+## Packages
+
+Below are the details on the packages used.
+
+- `bootstrap` for grid layout, other components.
+- `material` for styling and list component
+- `prettier` used for prettifying the code base.
+
+## How to run the development server
+
+ - Run `npm install` to install all the dependencies. registry=`https://registry.npmjs.org/`
+ - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/stock`. The application will automatically reload if you change any of the source files.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
