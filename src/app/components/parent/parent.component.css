@@ -1,0 +1,6 @@
+.layout {
+  height: 300px;
+  border: 1px solid #aeaeae;
+  border-radius: 5px;
+  overflow-y: auto;
+}
